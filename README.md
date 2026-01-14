@@ -19,3 +19,10 @@ using Air Quality Index (AQI) data from open government sources.
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+
+## How to Run the Project
+
+1. Clone the repository
+2. Create and activate a Python virtual environment
+3. Install required libraries:
+4. Open `Mini_Project.ipynb` and run all cells
