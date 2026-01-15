@@ -3,4 +3,7 @@ __pycache__/
 .ipynb_checkpoints/
 *.pyc
 .DS_Store
-
+_config.yml
+_toc.yml
+index.md
+_build/
